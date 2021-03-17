@@ -13,7 +13,7 @@ Hi, I'm [Mukesh Singh](https://www.MukeshSingh.in/), Chartered Accountancy final
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/MKSingh4u/MKSingh4u/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/MKSingh4u/MKSingh4u/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@MukeshSingh](https://twitter.com/CA_MKSingh);
+- 📫 Reach me: [@MukeshSingh](https://twitter.com/CA_MKSingh)
