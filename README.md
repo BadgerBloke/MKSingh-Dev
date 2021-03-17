@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/CA-MKSingh/">
   <img align="left" alt="Mukesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
+<p></p>
 
 Hi, I'm [Mukesh Singh](https://www.MukeshSingh.in/), Chartered Accountancy final year student and a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
