@@ -17,4 +17,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Reach me: [@MukeshSingh](https://twitter.com/CA_MKSingh)
-- [Hacktoberfest](https://www.holopin.io/userbadge/cl9s5okfr123008kxgvp7n7xt)
+- [#hacktoberfest](https://www.holopin.io/userbadge/cl9s5okfr123008kxgvp7n7xt)
+- <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" style="height: 250px; width: 250px;" />
